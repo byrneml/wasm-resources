@@ -1,4 +1,4 @@
-# WASM Projects
+# WebAssembly Projects
 A curated list of projects, companies and videos related to WebAssembly to document the interesting things I find as I explore the ecosystem.
 
 ## Contents
