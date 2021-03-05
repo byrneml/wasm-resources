@@ -2,9 +2,9 @@
 A curated list of projects, companies and videos related to WebAssembly to document the interesting things I find as I explore the ecosystem.
 
 ## Contents
-* [Companies/Projects building for WebAssembly] (#building-for-wasm)
-* [Companies Using WebAssembly] (#using-wasm)
-* [WebAssembly Videos] (#videos)
+* [Companies/Projects building for WebAssembly](#building-for-wasm)
+* [Companies Using WebAssembly](#using-wasm)
+* [WebAssembly Videos](#videos)
 
 <a name="building-for-wasm"/>
 
