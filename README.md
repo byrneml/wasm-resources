@@ -5,6 +5,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Companies/Projects building for WebAssembly](#building-for-wasm)
 * [Companies Using WebAssembly](#using-wasm)
 * [WebAssembly Videos](#videos)
+* [Presentation Slides](#slides)
 
 <a name="building-for-wasm"/>
 
@@ -32,4 +33,8 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
 * [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
 
+<a name="slides"/>
+
+### Presentation Slides
+* [Web Assembly for Dumb People](https://wasm-talk.johnny.sh/#0)
 
