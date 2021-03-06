@@ -17,11 +17,12 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 
 <a name="using-wasm"/>
 
-### Companies Using WebAssembly
+### Companies/Projects Using WebAssembly
 * [Figma](https://figma.com)
 * [Avocode](https://avocode.com)
 * [ClipChamp](https://clipchamp.com)
 * [AutoDesk](https://www.autodesk.com/products/autocad-web-app/overview)
+* [Squoosh](https://squoosh.app/)
 
 <a name="videos"/>
 
