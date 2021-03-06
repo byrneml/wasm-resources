@@ -12,6 +12,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 ### Companies/Projects building for WebAssembly
 * [Wasmer](https://wasmer.io)
 * [Cloudflare Workers](https://workers.cloudflare.com)
+* [Lucet by Fastly](https://github.com/bytecodealliance/lucet)
 * [wapm](https://wapm.io)
 * [Atmo/Suborbital](https://github.com/suborbital/atmo)
 
