@@ -26,6 +26,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Squoosh](https://squoosh.app)
 * [Picovoice](https://picovoice.ai)
 * [Second State](https://www.secondstate.io)
+* [Godot Engine](https://godotengine.org)
 
 <a name="videos"/>
 
