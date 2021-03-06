@@ -15,6 +15,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Lucet by Fastly](https://github.com/bytecodealliance/lucet)
 * [wapm](https://wapm.io)
 * [Atmo/Suborbital](https://github.com/suborbital/atmo)
+* [Emscripten](https://github.com/emscripten-core/emscripten)
 
 <a name="using-wasm"/>
 
