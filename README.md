@@ -22,8 +22,9 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Avocode](https://avocode.com)
 * [ClipChamp](https://clipchamp.com)
 * [AutoDesk](https://www.autodesk.com/products/autocad-web-app/overview)
-* [Squoosh](https://squoosh.app/)
+* [Squoosh](https://squoosh.app)
 * [Picovoice](https://picovoice.ai)
+* [Second State](https://www.secondstate.io)
 
 <a name="videos"/>
 
