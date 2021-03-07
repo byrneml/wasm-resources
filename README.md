@@ -6,6 +6,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Companies Using WebAssembly](#using-wasm)
 * [WebAssembly Videos](#videos)
 * [Presentation Slides](#slides)
+* [Blogs/Articles/Interviews](#articles)
 
 <a name="building-for-wasm"/>
 
@@ -28,6 +29,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Picovoice](https://picovoice.ai)
 * [Second State](https://www.secondstate.io)
 * [Godot Engine](https://godotengine.org)
+* [Sentry](https://sentry.io)
 
 <a name="videos"/>
 
@@ -43,4 +45,9 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 
 ### Presentation Slides
 * [Web Assembly for Dumb People](https://wasm-talk.johnny.sh/#0)
+
+<a name="articles"/>
+
+### Blogs/Articles/Interviews
+* [WebAssembly at Sentry - Q&A with Armin Ronacher](https://www.infoq.com/articles/web-assembly-sentry-armin-ronacher/)
 
