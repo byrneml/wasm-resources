@@ -7,6 +7,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [WebAssembly Videos](#videos)
 * [Presentation Slides](#slides)
 * [Blogs/Articles/Interviews](#articles)
+* [Docs & Books](#docs)
 
 <a name="building-for-wasm"/>
 
@@ -50,4 +51,9 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 
 ### Blogs/Articles/Interviews
 * [WebAssembly at Sentry - Q&A with Armin Ronacher](https://www.infoq.com/articles/web-assembly-sentry-armin-ronacher/)
+
+<a name="docs"/>
+
+### Docs & Books
+* [Rust & WebAssembly](https://rustwasm.github.io/docs/book/)
 
