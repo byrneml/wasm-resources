@@ -18,6 +18,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [wapm](https://wapm.io)
 * [Atmo/Suborbital](https://github.com/suborbital/atmo)
 * [Emscripten](https://github.com/emscripten-core/emscripten)
+* [Suborbital](https://suborbital.dev)
 
 <a name="using-wasm"/>
 
