@@ -35,6 +35,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Sentry](https://sentry.io)
 * [Google Earth](https://google.com/earth)
 * [eBay](https://tech.ebayinc.com/engineering/webassembly-at-ebay-a-real-world-use-case)
+* [Pyodide[(https://pyodide.org/en/stable/)
 
 <a name="videos"/>
 
