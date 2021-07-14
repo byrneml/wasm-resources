@@ -56,6 +56,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 
 ### Blogs/Articles/Interviews
 * [WebAssembly at Sentry - Q&A with Armin Ronacher](https://www.infoq.com/articles/web-assembly-sentry-armin-ronacher/)
+* [What Is WebAssembly — and Why Are You Hearing So Much About It?](https://thenewstack.io/what-is-webassembly/)
 
 <a name="docs"/>
 
