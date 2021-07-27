@@ -36,6 +36,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Google Earth](https://google.com/earth)
 * [eBay](https://tech.ebayinc.com/engineering/webassembly-at-ebay-a-real-world-use-case)
 * [Pyodide](https://pyodide.org/en/stable/)
+* [Shopify](https://shopify.engineering/shopify-webassembly)
 
 <a name="videos"/>
 
