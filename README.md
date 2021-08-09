@@ -20,6 +20,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Emscripten](https://github.com/emscripten-core/emscripten)
 * [Suborbital](https://suborbital.dev)
 * [wasmcloud](https://wasmcloud.com/)
+* [Mycelial](https://mycelial.co/)
 
 <a name="using-wasm"/>
 
