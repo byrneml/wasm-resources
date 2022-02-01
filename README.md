@@ -21,6 +21,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [Suborbital](https://suborbital.dev)
 * [wasmcloud](https://wasmcloud.com/)
 * [Mycelial](https://mycelial.co/)
+* [ZapLib](https://zaplib.com)
 
 <a name="using-wasm"/>
 
@@ -48,6 +49,7 @@ A curated list of projects, companies and videos related to WebAssembly to docum
 * [WebAssembly nanoprocesses: making WebAssembly outside-the-browser secure by default, Lin Clark](https://www.youtube.com/watch?v=TF-tXDRAEmg)
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
 * [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
+* [ShipIt! Presents Making Commerce Extensible with WebAssembly](https://www.youtube.com/watch?v=rPf7llaTWvg)
 
 <a name="slides"/>
 
