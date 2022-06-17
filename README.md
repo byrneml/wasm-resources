@@ -1,7 +1,3 @@
----
-cover: https://github.com/byrneml/wasm-resources
----
-
 # WebAssembly resources
 A curated list of resources related to the WebAssembly ecosystem that I find interesting. Note that this is **not** a comprehensive guide, but meant as a tack-on resource to my blog post on WebAssembly. For a comprehensive overview of the Wasm ecosystem, check out [awesome-wasm](https://github.com/mbasso/awesome-wasm) & [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes).
 
