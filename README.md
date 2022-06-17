@@ -60,6 +60,7 @@ A curated list of resources related to the WebAssembly ecosystem that I find int
 * [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
 * [ShipIt! Presents Making Commerce Extensible with WebAssembly](https://www.youtube.com/watch?v=rPf7llaTWvg)
 [https://www.youtube.com/watch?v=Hq_cj77fuqo](https://www.youtube.com/watch?v=Hq_cj77fuqo)
+* [Bringing WebAssembly to the .NET Mainstream](https://www.youtube.com/watch?v=PIeYw7kJUIg&list=PLlsUewWNvBLRM5fHK5PW6L1KPiZ1mq3zt&index=27&t=5s)
 
 <a name="using-wasm"/>
 
