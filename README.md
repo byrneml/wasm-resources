@@ -65,7 +65,8 @@ A curated list of resources related to the WebAssembly ecosystem that I find int
 
 ### Companies/Projects Using WebAssembly
 * [Figma](https://figma.com)
-* [Dynaboard](https://dynaboard.com_)
+* [Dynaboard](https://dynaboard.com)
+* [Grafbase](https://grafbase.com)
 * [Avocode](https://avocode.com)
 * [ClipChamp](https://clipchamp.com)
 * [AutoDesk](https://www.autodesk.com/products/autocad-web-app/overview)
@@ -94,3 +95,4 @@ A curated list of resources related to the WebAssembly ecosystem that I find int
 * [Deno](https://deno.land)
 * [RedPanda](https://redpanda.com)
 * [Envoy Proxy](https://www.envoyproxy.io/)
+* [SingleStore](https://www.singlestore.com/)
