@@ -67,6 +67,7 @@ A curated list of resources related to the WebAssembly ecosystem that I find int
 ### Companies/Projects Using WebAssembly
 * [Figma](https://figma.com)
 * [Dynaboard](https://dynaboard.com)
+* [Dylibso](https://dylib.so)
 * [Grafbase](https://grafbase.com)
 * [Avocode](https://avocode.com)
 * [ClipChamp](https://clipchamp.com)
